@@ -21,10 +21,10 @@ export default class Team extends Component {
               </div>
               <div className="detail-box">
                 <h5>
-                  Joseph Brown
+                  Joseph Drown
                 </h5>
                 <p>
-                  Marketing Head
+                  Marketing Head Manager
                 </p>
               </div>
               <div className="social_box">
@@ -53,7 +53,7 @@ export default class Team extends Component {
               </div>
               <div className="detail-box">
                 <h5>
-                  Nancy White
+                  Nancy White Roy
                 </h5>
                 <p>
                   Marketing Head

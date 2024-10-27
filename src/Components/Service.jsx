@@ -68,8 +68,7 @@ export default class Service extends Component {
                 </h5>
                 <p>
                   fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                  The
-                  point of using
+                  The point of using all of it
                 </p>
                 <a href>
                   Read More

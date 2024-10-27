@@ -9,7 +9,7 @@ export default class Footer extends Component {
     <div className="container">
       <p>
         © <span id="displayYear" /> All Rights Reserved By
-        <a href="https://html.design/">Free Html Templates</a>
+        <a href="https://html.design/">Free Html Templates for All</a>
       </p>
     </div>
   </section>

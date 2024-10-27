@@ -54,7 +54,7 @@ export default class Info extends Component {
                                     Info
                                 </h4>
                                 <p>
-                                    necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful
+                                    necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, 
                                 </p>
                             </div>
                         </div>

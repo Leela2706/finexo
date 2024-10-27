@@ -25,22 +25,22 @@ export default class Header extends Component {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav  ">
               <li className="nav-item active">
-                <a className="nav-link" href="index.html">Home <span className="sr-only">(current)</span></a>
+                <a className="nav-link" href="index.html">home <span className="sr-only">(current)</span></a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="about.html"> About</a>
+                <a className="nav-link" href="about.html"> about</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="service.html">Services</a>
+                <a className="nav-link" href="service.html">services</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="why.html">Why Us</a>
+                <a className="nav-link" href="why.html">why Us</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="team.html">Team</a>
+                <a className="nav-link" href="team.html">team</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#"> <i className="fa fa-user" aria-hidden="true" /> Login</a>
+                <a className="nav-link" href="#"> <i className="fa fa-user" aria-hidden="true" /> login</a>
               </li>
               <form className="form-inline">
                 <button className="btn  my-2 my-sm-0 nav_search-btn" type="submit">
